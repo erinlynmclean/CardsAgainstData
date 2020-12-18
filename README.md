@@ -1,7 +1,9 @@
 # CardsAgainstData
 Cards Against Data Game - Cards Against Humanity for Data Repositories
 
-Participate in this project with us by suggesting black cards and white cards. Visit the individual issues to upvote (or thumbs up) the ones you really like to make sure they get added to the final collection.
+Participate in this project with us by suggesting black cards and white cards. Add a card by creating a new issue.
+
+Visit the individual issues to upvote (or thumbs up) the ones you really like to make sure they get added to the final collection.
 
 Please make sure to keep this more or less family friendly - no profanity or vulgar cards will make it to the final deck. Be silly, be funny, but don't be gross. Also, please don't make cards that attack any particular group based on gender, religion, political preference, or discipline. (Likely goes without saying but just in case.)
 
